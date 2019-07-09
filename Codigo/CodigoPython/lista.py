@@ -1,3 +1,4 @@
+#Hola otra vez
 #A list is a collection which isordered and changable. Allows duplicate
 
 #create a list , ist wat to do it
